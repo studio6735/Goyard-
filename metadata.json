@@ -1,0 +1,6 @@
+{
+  "name": "Maison Chevron & Soie — Pagnes de Prestige",
+  "description": "Boutique de vente directe du Pagne Goyard au prix fixe de 3 000 FCFA. Commande simplifiée sans inscription avec récapitulatif instantané.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
